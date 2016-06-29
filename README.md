@@ -1,3 +1,3 @@
 # Hello-World
-A random repository
+
 I'm this extremely lazy wannabe coder trying to get somewhere in life...
